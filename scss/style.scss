@@ -3,6 +3,9 @@
 @import 'reset';
 @import 'libs';
 @import 'global';
+* {
+  -webkit-tap-highlight-color: transparent;
+}
 
 
 
